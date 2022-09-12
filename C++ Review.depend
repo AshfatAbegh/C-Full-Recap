@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1662812049 source:d:\c++\c++ review\main.cpp
+	<iostream>
+
+1662812085 source:d:\c++\c++ review\variables.cpp
+	<iostream>
+
+1662817189 source:d:\c++\c++ review\numbers.cpp
+	<iostream>
+
